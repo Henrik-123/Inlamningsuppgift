@@ -25,7 +25,7 @@ public class MainWordCounter {
 
         System.out.println("Number of words: " + myWordCounter.getWords());
         System.out.println("Number of rows: " + myWordCounter.getRows());
-        System.out.println("Number of characters:Hej " + myWordCounter.getCharacters());
+        System.out.println("Number of characters: " + myWordCounter.getCharacters());
         System.out.println("Longest word: " + myWordCounter.getLongestWord());
 
     }
